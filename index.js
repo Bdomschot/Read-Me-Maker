@@ -36,7 +36,7 @@ const questions = [
     },
     {
         type: "list",
-        name: "license",
+        name: "liscense",
         message: "What license is the project using?",
         choices: [
             "apache-2.0",
